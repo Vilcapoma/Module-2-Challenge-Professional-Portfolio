@@ -7,7 +7,7 @@ It did take a while for me to understand on how each element section has its own
 Even though it was challenging, but I see it as heading into the right direction.
 
 ## Screenshot
-![Chellenge2](./assets/images/Profesional%20Portfolio.png)
+![Challenge2](./assets/images/Profesional%20Portfolio.png)
 
 ## Link
  https://vilcapoma.github.io/Module-2-Challenge-Professional-Portfolio/
